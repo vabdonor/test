@@ -1,3 +1,4 @@
 # test
-## este e o meu teste
-### hahahaha
+## trying to figure out this git
+### studying it
+#### mac os
